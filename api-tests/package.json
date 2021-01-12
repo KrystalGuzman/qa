@@ -1,0 +1,14 @@
+{
+      "name": "@hopin/api-tests",
+      "version": "1.0.0",
+      "description": "Hopin Test - API Tests",
+      "scripts": {
+            "cypress:open": "./node_modules/.bin/cypress open",
+            "test": "./node_modules/.bin/cypress run",
+            "record": "cypress run --record --key b2e711ad-73b7-4c32-be3e-4abf641a3143"
+      },
+      "dependencies": {},
+      "devDependencies": {
+            "cypress": "^6.2.1"
+      }
+}
