@@ -2,7 +2,11 @@
 
 ## Task 1: Test Environment Setup ##
 
+[a link](https://github.com/KrystalGuzman/qa/blob/master/ScreenshotTask1.png)
+
 ## Task 2: Create a test plan and run it manually ##
+
+[a link](https://github.com/KrystalGuzman/qa/blob/master/QATask2.ods)
 
 ### Issues
 1. Customer List - Broken Link: When validating for United Brands, an error is thrown.
@@ -14,6 +18,8 @@
 
 ## Task 3: Create an automated API level test scenario ##
 
-
+[a link](https://github.com/KrystalGuzman/qa/blob/master/api-tests/README.md)
 
 ## Task 4: Create an automated UI level test scenario ##
+
+[a link](https://github.com/KrystalGuzman/qa/blob/master/ui-tests/README.md)
