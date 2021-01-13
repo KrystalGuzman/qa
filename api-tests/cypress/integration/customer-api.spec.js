@@ -1,13 +1,13 @@
 import * as data from '../fixtures/helpers'
 
 describe("API Test for Customer App", () => {
-
+    
     it("Validates the API response", () => {
         data.names.forEach((name) => {
             cy.request('POST', "/", name)
                 .its('body')
                 .should('contain', name)
-                .should('contain', "[A-Za-z]")
+                // .should('contain', "[A-Za-z]")
                 .should('contain', data.timestamp)
                 .its('customers')
                 .should('deep.equal', data.response.customers)

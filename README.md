@@ -10,10 +10,10 @@
     A. United Brands: A company with 20 employees should be Medium (11 to 1000)  as the condition for Small is <=10.
     B. Caribian Airlnis: A company with 1000 employees should be Medium (11 to 1000) as the condition for Big is >1000.
 3. Name Input Field - Name is not validated.
+4. Page title is React App.
 
 ## Task 3: Create an automated API level test scenario ##
 
 
 
 ## Task 4: Create an automated UI level test scenario ##
-

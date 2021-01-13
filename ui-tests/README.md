@@ -1,4 +1,4 @@
-## Task 3: Create an automated API level test scenario ##
+## Task 4: Create an automated UI level test scenario ##
 
 ### Scripts
 Clone the project

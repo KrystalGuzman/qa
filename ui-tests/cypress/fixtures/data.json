@@ -1,0 +1,9 @@
+{
+    "names": ["Krystal","12345","!@#$%"," "],
+    "header": "Welcome to Customer App",
+    "instructions": "Please provide your name:",
+    "dialog": "Please provide your name",
+    "textCL": "and here is our customer list. Click on each of them to view their contact details.",
+    "textCD": "Customer Details",
+    "error": "No contact info available"
+}

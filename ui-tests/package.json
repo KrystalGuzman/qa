@@ -1,0 +1,14 @@
+{
+      "name": "@hopin/ui-tests",
+      "version": "1.0.0",
+      "description": "Hopin Test - UI Tests",
+      "scripts": {
+            "cypress:open": "./node_modules/.bin/cypress open",
+            "test": "./node_modules/.bin/cypress run",
+            "record": "cypress run --record --key bf744564-8cc7-4e52-8fb0-4e1612743580"
+      },
+      "dependencies": {},
+      "devDependencies": {
+            "cypress": "^6.2.1"
+      }
+}
